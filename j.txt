@@ -1,0 +1,30 @@
+[AMAZON HIRING SDE-1 and SDE-2]
+
+There are few job openings in Amazon for Software Development Engineer-1 and 2.
+Please forward your resume to below email ids:
+
+SDE-1 => contact.kakul.for.referral@gmail.com
+
+SDE-2 => contact.kakul.for.referral2@gmail.com
+
+You should be STRONG in:
+1. Problem Solving.
+2. Data Structure and Algorithm.
+3. Good coding skills in any language
+-> Amazon doesn't care about language, unless you are able to write a clean production ready code on a paper
+
+SDE-1 Criteria = 0 to 3 years experience. 2021 pass out CAN apply.
+
+SDE-2 Criteria = 3+ years experience and strong in HLD + LLD.
+
+Mail subject : <Your Name> | <Current Company/College> | <Experience> | <Preferred Location> | SDE-1 or SDE-2
+
+Note:
+1. This job is not for 2022 passout candidates.
+2. Your Resume should be in pdf format
+3. Please use your full name as the file name of your resume => YOURFULLNAME.pdf
+
+
+
+https://get.ideas2it.com/freshers-application-form/https://jobs.smartrecruiters.com/ServiceNow/743999741787543-assoc-software-engineer
+https://careers.microsoft.com/us/en/job/986225/Software-Engineer
